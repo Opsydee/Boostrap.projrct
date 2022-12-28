@@ -1,1 +1,1 @@
-# Boostrap.projrct
+TinDog Starting Files
